@@ -1,2 +1,3 @@
 # hello-world
 This is an entry-level project
+IAMA SUCCESSFUL, WEALTHY, HIGHLY SKILLED PROGRAMMER AND MECHANICAL ENGINEER.
